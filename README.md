@@ -3,3 +3,11 @@
 This repo was built to use in a role-playing based incident training workshop. The idea was that I served as a "game master" like DnD, and would use this website in place of real infrastructure. The team will ask questions and navigate the website and attempt to get the websites diagnostics healthy and green, as well as fix the service to deploy cats on demand.
 
 This repo was based on an existing incident repo built at HashiCorp.
+
+## Launching the python webserver
+
+To launch the python webserver, run the following command:
+
+```bash
+make run
+```
