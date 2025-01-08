@@ -1,0 +1,8 @@
+---
+cat-service:
+  api-url: example.com/v1
+ cat: happy
+
+stay-warm: always
+
+crash_loop: true
