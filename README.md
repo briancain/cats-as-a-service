@@ -4,6 +4,8 @@ This repo was built to use in a role-playing based incident training workshop. T
 
 This repos HTML and scenario was based on an existing incident scenario repo built at HashiCorp but has been since modified.
 
+It uses https://cataas.com/ to simulate loading a cat photo from a RDS database.
+
 ## Launching the python webserver
 
 To launch the python webserver, run the following command:
